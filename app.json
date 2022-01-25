@@ -7,8 +7,8 @@
         "rename",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Rename-Bot",
-    "website": "https://abirhasan.wtf",
+    "repository": "https://github.com/MSTL-Updates/Rename-Bot",
+    "website": "https://t.me/STLbotz",
     "success_url": "https://t.me/AH_RenameBot",
     "env": {
         "API_ID": {
